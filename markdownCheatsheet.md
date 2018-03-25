@@ -1,4 +1,5 @@
 This markdown was learnt from https://www.youtube.com/watch?v=HUBNt18RFbo which should be viewed from github. This stuff is used for readme files providing you use .md in the file.
+Github's "Raw" tab lets you see how the markup is actually written.
 
 <!-- Headings -->
 # Heading 1
